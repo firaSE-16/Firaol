@@ -10,5 +10,5 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## 📊 GitHub Stats
-![Firaol's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Firaol's GitHub stats](https://github-readme-stats.vercel.app/api?username=firaSE-16&show_icons=true&theme=radical)
 
